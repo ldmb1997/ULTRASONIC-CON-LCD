@@ -84,6 +84,6 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrolla
 
 - [GitHub](https://github.com/DiegoJm10)
